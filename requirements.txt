@@ -1,7 +1,7 @@
 Pandas
 NumPy
 Matplotlib
-OS
+os
 re
 datetime
 time
