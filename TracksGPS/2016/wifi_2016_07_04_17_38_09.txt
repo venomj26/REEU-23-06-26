@@ -1,0 +1,3 @@
+% Truck joe newer truck: wifi_2016_07_04_17_38_09.txt
+% Time, GPS time, lat, lon, altitude, speed, bearing, accuracy, connectedId, RSSI 
+% Stopped at 2016/07/04 17:38:09
